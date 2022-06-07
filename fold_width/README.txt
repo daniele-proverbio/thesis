@@ -1,0 +1,1 @@
+This part of the analysis tests the framework and the theoretical predictions on empirical data from (Dai et a, 2015)
