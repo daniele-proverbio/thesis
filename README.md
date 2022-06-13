@@ -12,3 +12,11 @@ Some final figures are created using Inkscape, combining single-generated sub-fi
 ## Credits
 Author: Daniele Proverbio, LCSB, 2018 - 2022 (daniele.proverbio@outlook.com).  
 Please cite the corresponding thesis if you use any figure or code.
+
+### Suggested citation (bibtex)
+@thesis{Proverbio2022,  
+author = {{Proverbio}, Daniele},   
+publisher = {University of Luxembourg},   
+title = {{Classification and detection of critical transitions}},   
+year = {2022}
+}
